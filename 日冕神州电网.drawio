@@ -22,88 +22,250 @@
         <mxCell id="-NXIvsWbZfEd-WGnwUbN-35" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="-NXIvsWbZfEd-WGnwUbN-36" vertex="1">
           <mxGeometry y="60" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-NXIvsWbZfEd-WGnwUbN-44" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1055" y="125" width="385" height="385" as="geometry" />
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-13" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1395" y="385" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="-NXIvsWbZfEd-WGnwUbN-1" value="导流尖塔" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;imageHeight=24;imageWidth=24;" parent="-NXIvsWbZfEd-WGnwUbN-44" vertex="1">
-          <mxGeometry x="120" y="120" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-NXIvsWbZfEd-WGnwUbN-6" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="-NXIvsWbZfEd-WGnwUbN-44" vertex="1">
-          <mxGeometry x="100" y="60" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-NXIvsWbZfEd-WGnwUbN-12" value="鼎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="-NXIvsWbZfEd-WGnwUbN-44" vertex="1">
-          <mxGeometry x="60.67000000000007" y="80" width="39.33" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="-NXIvsWbZfEd-WGnwUbN-13" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="-NXIvsWbZfEd-WGnwUbN-44" vertex="1">
-          <mxGeometry x="100" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-NXIvsWbZfEd-WGnwUbN-14" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="-NXIvsWbZfEd-WGnwUbN-44" vertex="1">
-          <mxGeometry x="160" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-NXIvsWbZfEd-WGnwUbN-15" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="-NXIvsWbZfEd-WGnwUbN-44" vertex="1">
-          <mxGeometry x="160" y="60" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-NXIvsWbZfEd-WGnwUbN-16" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="-NXIvsWbZfEd-WGnwUbN-44" vertex="1">
-          <mxGeometry x="80" y="240" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-NXIvsWbZfEd-WGnwUbN-17" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="-NXIvsWbZfEd-WGnwUbN-44" vertex="1">
-          <mxGeometry x="80" y="180" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-NXIvsWbZfEd-WGnwUbN-18" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="-NXIvsWbZfEd-WGnwUbN-44" vertex="1">
-          <mxGeometry x="140" y="180" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-NXIvsWbZfEd-WGnwUbN-19" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="-NXIvsWbZfEd-WGnwUbN-44" vertex="1">
-          <mxGeometry x="140" y="240" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-NXIvsWbZfEd-WGnwUbN-20" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="-NXIvsWbZfEd-WGnwUbN-44" vertex="1">
-          <mxGeometry x="60" y="120" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-NXIvsWbZfEd-WGnwUbN-21" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="-NXIvsWbZfEd-WGnwUbN-44" vertex="1">
-          <mxGeometry x="180" y="120" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-NXIvsWbZfEd-WGnwUbN-22" value="鼎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="-NXIvsWbZfEd-WGnwUbN-44" vertex="1">
-          <mxGeometry x="200" y="180" width="39.33" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="-NXIvsWbZfEd-WGnwUbN-23" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="-NXIvsWbZfEd-WGnwUbN-44" vertex="1">
-          <mxGeometry x="40" y="20" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-NXIvsWbZfEd-WGnwUbN-24" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="-NXIvsWbZfEd-WGnwUbN-44" vertex="1">
-          <mxGeometry y="80" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-NXIvsWbZfEd-WGnwUbN-25" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="-NXIvsWbZfEd-WGnwUbN-44" vertex="1">
-          <mxGeometry x="200" y="220" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-NXIvsWbZfEd-WGnwUbN-26" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="-NXIvsWbZfEd-WGnwUbN-44" vertex="1">
-          <mxGeometry x="239.32999999999993" y="160" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-NXIvsWbZfEd-WGnwUbN-27" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="-NXIvsWbZfEd-WGnwUbN-44" vertex="1">
-          <mxGeometry x="0.6700000000000728" y="140" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-NXIvsWbZfEd-WGnwUbN-28" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="-NXIvsWbZfEd-WGnwUbN-44" vertex="1">
-          <mxGeometry x="20" y="200" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-NXIvsWbZfEd-WGnwUbN-29" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="-NXIvsWbZfEd-WGnwUbN-44" vertex="1">
-          <mxGeometry x="239.32999999999993" y="100" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-NXIvsWbZfEd-WGnwUbN-30" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="-NXIvsWbZfEd-WGnwUbN-44" vertex="1">
-          <mxGeometry x="220" y="40" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-NXIvsWbZfEd-WGnwUbN-38" value="" style="group" parent="-NXIvsWbZfEd-WGnwUbN-44" vertex="1" connectable="0">
-          <mxGeometry x="220" y="220" width="160" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="-NXIvsWbZfEd-WGnwUbN-39" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="-NXIvsWbZfEd-WGnwUbN-38" vertex="1">
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-14" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-13">
           <mxGeometry x="100" y="40" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-NXIvsWbZfEd-WGnwUbN-40" value="鼎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="-NXIvsWbZfEd-WGnwUbN-38" vertex="1">
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-15" value="鼎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-13">
           <mxGeometry x="60.67000000000007" y="60" width="39.33" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-NXIvsWbZfEd-WGnwUbN-41" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="-NXIvsWbZfEd-WGnwUbN-38" vertex="1">
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-16" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-13">
           <mxGeometry x="60" y="100" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-NXIvsWbZfEd-WGnwUbN-42" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="-NXIvsWbZfEd-WGnwUbN-38" vertex="1">
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-17" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-13">
           <mxGeometry x="40" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-NXIvsWbZfEd-WGnwUbN-43" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="-NXIvsWbZfEd-WGnwUbN-38" vertex="1">
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-18" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-13">
+          <mxGeometry y="60" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1275" y="345" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-2" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-1">
+          <mxGeometry x="100" y="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-3" value="鼎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-1">
+          <mxGeometry x="60.67000000000007" y="60" width="39.33" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-4" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-1">
+          <mxGeometry x="60" y="100" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-5" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-1">
+          <mxGeometry x="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-6" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-1">
+          <mxGeometry y="60" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1235" y="465" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-8" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-7">
+          <mxGeometry x="100" y="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-9" value="鼎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-7">
+          <mxGeometry x="60.67000000000007" y="60" width="39.33" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-10" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-7">
+          <mxGeometry x="60" y="100" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-11" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-7">
+          <mxGeometry x="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-12" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-7">
+          <mxGeometry y="60" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-19" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1055" y="125" width="299.3299999999999" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="-NXIvsWbZfEd-WGnwUbN-1" value="导流尖塔" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;imageHeight=24;imageWidth=24;" parent="97frLLPNt1WCnHBlyTJ6-19" vertex="1">
+          <mxGeometry x="120" y="120" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-NXIvsWbZfEd-WGnwUbN-6" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="97frLLPNt1WCnHBlyTJ6-19" vertex="1">
+          <mxGeometry x="100" y="60" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-NXIvsWbZfEd-WGnwUbN-12" value="鼎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="97frLLPNt1WCnHBlyTJ6-19" vertex="1">
+          <mxGeometry x="60.67000000000007" y="80" width="39.33" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-NXIvsWbZfEd-WGnwUbN-13" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="97frLLPNt1WCnHBlyTJ6-19" vertex="1">
+          <mxGeometry x="100" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-NXIvsWbZfEd-WGnwUbN-14" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="97frLLPNt1WCnHBlyTJ6-19" vertex="1">
+          <mxGeometry x="160" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-NXIvsWbZfEd-WGnwUbN-15" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="97frLLPNt1WCnHBlyTJ6-19" vertex="1">
+          <mxGeometry x="160" y="60" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-NXIvsWbZfEd-WGnwUbN-16" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="97frLLPNt1WCnHBlyTJ6-19" vertex="1">
+          <mxGeometry x="80" y="240" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-NXIvsWbZfEd-WGnwUbN-17" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="97frLLPNt1WCnHBlyTJ6-19" vertex="1">
+          <mxGeometry x="80" y="180" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-NXIvsWbZfEd-WGnwUbN-18" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="97frLLPNt1WCnHBlyTJ6-19" vertex="1">
+          <mxGeometry x="140" y="180" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-NXIvsWbZfEd-WGnwUbN-19" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="97frLLPNt1WCnHBlyTJ6-19" vertex="1">
+          <mxGeometry x="140" y="240" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-NXIvsWbZfEd-WGnwUbN-20" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="97frLLPNt1WCnHBlyTJ6-19" vertex="1">
+          <mxGeometry x="60" y="120" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-NXIvsWbZfEd-WGnwUbN-21" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="97frLLPNt1WCnHBlyTJ6-19" vertex="1">
+          <mxGeometry x="180" y="120" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-NXIvsWbZfEd-WGnwUbN-22" value="鼎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="97frLLPNt1WCnHBlyTJ6-19" vertex="1">
+          <mxGeometry x="200" y="180" width="39.33" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-NXIvsWbZfEd-WGnwUbN-23" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="97frLLPNt1WCnHBlyTJ6-19" vertex="1">
+          <mxGeometry x="40" y="20" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-NXIvsWbZfEd-WGnwUbN-24" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="97frLLPNt1WCnHBlyTJ6-19" vertex="1">
+          <mxGeometry y="80" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-NXIvsWbZfEd-WGnwUbN-25" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="97frLLPNt1WCnHBlyTJ6-19" vertex="1">
+          <mxGeometry x="200" y="220" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-NXIvsWbZfEd-WGnwUbN-26" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="97frLLPNt1WCnHBlyTJ6-19" vertex="1">
+          <mxGeometry x="239.32999999999993" y="160" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-NXIvsWbZfEd-WGnwUbN-27" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="97frLLPNt1WCnHBlyTJ6-19" vertex="1">
+          <mxGeometry x="0.6700000000000728" y="140" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-NXIvsWbZfEd-WGnwUbN-28" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="97frLLPNt1WCnHBlyTJ6-19" vertex="1">
+          <mxGeometry x="20" y="200" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-NXIvsWbZfEd-WGnwUbN-29" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="97frLLPNt1WCnHBlyTJ6-19" vertex="1">
+          <mxGeometry x="239.32999999999993" y="100" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-NXIvsWbZfEd-WGnwUbN-30" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="97frLLPNt1WCnHBlyTJ6-19" vertex="1">
+          <mxGeometry x="220" y="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-20" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1354.33" y="505" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-21" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-20">
+          <mxGeometry x="100" y="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-22" value="鼎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-20">
+          <mxGeometry x="60.67000000000007" y="60" width="39.33" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-23" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-20">
+          <mxGeometry x="60" y="100" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-25" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-20">
+          <mxGeometry y="60" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-68" value="导流尖塔" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;imageHeight=24;imageWidth=24;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-20">
+          <mxGeometry x="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-26" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1435" y="265" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-27" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-26">
+          <mxGeometry x="100" y="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-28" value="鼎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-26">
+          <mxGeometry x="60.67000000000007" y="60" width="39.33" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-29" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-26">
+          <mxGeometry x="60" y="100" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-30" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-26">
+          <mxGeometry x="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-31" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-26">
+          <mxGeometry y="60" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-44" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1115" y="425" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-45" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-44">
+          <mxGeometry x="100" y="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-46" value="鼎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-44">
+          <mxGeometry x="60.67000000000007" y="60" width="39.33" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-47" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-44">
+          <mxGeometry x="60" y="100" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-48" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-44">
+          <mxGeometry x="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-49" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-44">
+          <mxGeometry y="60" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-50" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1194.33" y="585" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-51" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-50">
+          <mxGeometry x="100" y="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-52" value="鼎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-50">
+          <mxGeometry x="60.67000000000007" y="60" width="39.33" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-53" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-50">
+          <mxGeometry x="60" y="100" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-54" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-50">
+          <mxGeometry x="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-55" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-50">
+          <mxGeometry y="60" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-56" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1315" y="625" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-57" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-56">
+          <mxGeometry x="100" y="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-58" value="鼎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-56">
+          <mxGeometry x="60.67000000000007" y="60" width="39.33" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-59" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-56">
+          <mxGeometry x="60" y="100" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-60" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-56">
+          <mxGeometry x="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-61" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-56">
+          <mxGeometry y="60" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-69" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1515" y="425" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-70" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-69">
+          <mxGeometry x="100" y="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-71" value="鼎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-69">
+          <mxGeometry x="60.67000000000007" y="60" width="39.33" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-72" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-69">
+          <mxGeometry x="60" y="100" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-73" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-69">
+          <mxGeometry x="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-74" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-69">
+          <mxGeometry y="60" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-75" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1475" y="545" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-63" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-75">
+          <mxGeometry x="100" y="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-64" value="鼎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-75">
+          <mxGeometry x="60.67000000000007" y="60" width="39.33" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-65" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-75">
+          <mxGeometry x="60" y="100" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-66" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-75">
+          <mxGeometry x="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97frLLPNt1WCnHBlyTJ6-67" value="电厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="97frLLPNt1WCnHBlyTJ6-75">
           <mxGeometry y="60" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
